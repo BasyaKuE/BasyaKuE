@@ -1,6 +1,6 @@
 # Profile
-Hello World
+Hello World!
 
-I'm a research student at Yokoyama Lab TMU. 
+I am a first-year master's student at Tokyo Metropolitan University.
 
-https://tmu.yokoyama.ac/
+[https://tmu.yokoyama.ac/](https://bsyk.xyz)
